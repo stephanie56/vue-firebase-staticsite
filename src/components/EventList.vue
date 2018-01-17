@@ -18,6 +18,9 @@ import Button from './Button'
 
 export default {
   name: 'EventList',
+  components: {
+    Button
+  },
   data () {
     return {
       events: [

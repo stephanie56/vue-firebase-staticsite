@@ -19,5 +19,7 @@ export default {
     text-decoration: none;
     padding: 0.4rem 1rem;
     border: #42b983 1px solid;
+    color: #42b983;
+    margin-top: 1rem;
   }
 </style>
