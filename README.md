@@ -1,4 +1,4 @@
-# newcomerwomen
+# VueJS Static Site
 
 > A Vue.js project
 

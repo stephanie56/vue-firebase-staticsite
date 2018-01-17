@@ -7,12 +7,15 @@
         <span class="event-list__date">{{ event.date }}</span>
         <h3 class="event-list__name">{{ event.name }}</h3>
         <p class="event-list__description">{{ event.description }}</p>
+        <Button />
       </div>
     </div>
   </section>
 </template>
 
 <script>
+import Button from './Button'
+
 export default {
   name: 'EventList',
   data () {
